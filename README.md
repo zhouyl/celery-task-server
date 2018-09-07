@@ -1,4 +1,4 @@
-# 证券事业部数据处理服务
+# 数据处理服务 celery-task-server
 
 当前项目使用的是 `python 3.5`，如果你不清楚其与 `2.7` 版本的差异，可以参考这里：https://blog.csdn.net/samxx8/article/details/21535901
 
