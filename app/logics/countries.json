@@ -1,0 +1,1353 @@
+{
+    "1": {
+        "id": 1,
+        "ename": "Angola",
+        "cname": "安哥拉",
+        "abbr": "AO",
+        "copyid": 42
+    },
+    "2": {
+        "id": 2,
+        "ename": "Afghanistan",
+        "cname": "阿富汗",
+        "abbr": "AF",
+        "copyid": 37
+    },
+    "3": {
+        "id": 3,
+        "ename": "Albania",
+        "cname": "阿尔巴尼亚",
+        "abbr": "AL",
+        "copyid": 38
+    },
+    "4": {
+        "id": 4,
+        "ename": "Algeria",
+        "cname": "阿尔及利亚",
+        "abbr": "DZ",
+        "copyid": 39
+    },
+    "5": {
+        "id": 5,
+        "ename": "Andorra",
+        "cname": "安道尔共和国",
+        "abbr": "AD",
+        "copyid": 41
+    },
+    "6": {
+        "id": 6,
+        "ename": "Anguilla",
+        "cname": "安圭拉岛",
+        "abbr": "AI",
+        "copyid": 43
+    },
+    "7": {
+        "id": 7,
+        "ename": "Antigua and Barbuda",
+        "cname": "安提瓜和巴布达",
+        "abbr": "AG",
+        "copyid": 45
+    },
+    "8": {
+        "id": 8,
+        "ename": "Argentina",
+        "cname": "阿根廷",
+        "abbr": "AR",
+        "copyid": 46
+    },
+    "9": {
+        "id": 9,
+        "ename": "Armenia",
+        "cname": "亚美尼亚",
+        "abbr": "AM",
+        "copyid": 47
+    },
+    "10": {
+        "id": 10,
+        "ename": "Ascension",
+        "cname": "阿森松",
+        "abbr": "",
+        "copyid": 0
+    },
+    "11": {
+        "id": 11,
+        "ename": "Australia",
+        "cname": "澳大利亚",
+        "abbr": "AU",
+        "copyid": 49
+    },
+    "12": {
+        "id": 12,
+        "ename": "Austria",
+        "cname": "奥地利",
+        "abbr": "AT",
+        "copyid": 50
+    },
+    "13": {
+        "id": 13,
+        "ename": "Azerbaijan",
+        "cname": "阿塞拜疆",
+        "abbr": "AZ",
+        "copyid": 51
+    },
+    "14": {
+        "id": 14,
+        "ename": "Bahamas",
+        "cname": "巴哈马",
+        "abbr": "BS",
+        "copyid": 52
+    },
+    "15": {
+        "id": 15,
+        "ename": "Bahrain",
+        "cname": "巴林",
+        "abbr": "BH",
+        "copyid": 53
+    },
+    "16": {
+        "id": 16,
+        "ename": "Bangladesh",
+        "cname": "孟加拉国",
+        "abbr": "BD",
+        "copyid": 55
+    },
+    "17": {
+        "id": 17,
+        "ename": "Barbados",
+        "cname": "巴巴多斯",
+        "abbr": "BB",
+        "copyid": 54
+    },
+    "18": {
+        "id": 18,
+        "ename": "Belarus",
+        "cname": "白俄罗斯",
+        "abbr": "BY",
+        "copyid": 56
+    },
+    "19": {
+        "id": 19,
+        "ename": "Belgium",
+        "cname": "比利时",
+        "abbr": "BE",
+        "copyid": 57
+    },
+    "20": {
+        "id": 20,
+        "ename": "Belize",
+        "cname": "伯利兹",
+        "abbr": "BZ",
+        "copyid": 58
+    },
+    "21": {
+        "id": 21,
+        "ename": "Benin",
+        "cname": "贝宁",
+        "abbr": "BJ",
+        "copyid": 59
+    },
+    "22": {
+        "id": 22,
+        "ename": "BermudaIs.",
+        "cname": "百慕大群岛",
+        "abbr": "BM",
+        "copyid": 0
+    },
+    "23": {
+        "id": 23,
+        "ename": "Bolivia",
+        "cname": "玻利维亚",
+        "abbr": "BO",
+        "copyid": 63
+    },
+    "24": {
+        "id": 24,
+        "ename": "Botswana",
+        "cname": "博茨瓦纳",
+        "abbr": "BW",
+        "copyid": 62
+    },
+    "25": {
+        "id": 25,
+        "ename": "Brazil",
+        "cname": "巴西",
+        "abbr": "BR",
+        "copyid": 66
+    },
+    "26": {
+        "id": 26,
+        "ename": "Brunei",
+        "cname": "文莱",
+        "abbr": "BN",
+        "copyid": 0
+    },
+    "27": {
+        "id": 27,
+        "ename": "Bulgaria",
+        "cname": "保加利亚",
+        "abbr": "BG",
+        "copyid": 68
+    },
+    "28": {
+        "id": 28,
+        "ename": "Burkina-faso",
+        "cname": "布基纳法索",
+        "abbr": "BF",
+        "copyid": 69
+    },
+    "29": {
+        "id": 29,
+        "ename": "Burma",
+        "cname": "缅甸",
+        "abbr": "MM",
+        "copyid": 173
+    },
+    "30": {
+        "id": 30,
+        "ename": "Burundi",
+        "cname": "布隆迪",
+        "abbr": "BI",
+        "copyid": 70
+    },
+    "31": {
+        "id": 31,
+        "ename": "Cameroon",
+        "cname": "喀麦隆",
+        "abbr": "CM",
+        "copyid": 72
+    },
+    "32": {
+        "id": 32,
+        "ename": "Canada",
+        "cname": "加拿大",
+        "abbr": "CA",
+        "copyid": 73
+    },
+    "33": {
+        "id": 33,
+        "ename": "Cayman Is.",
+        "cname": "开曼群岛",
+        "abbr": "",
+        "copyid": 75
+    },
+    "34": {
+        "id": 34,
+        "ename": "Central African Republic",
+        "cname": "中非共和国",
+        "abbr": "CF",
+        "copyid": 0
+    },
+    "35": {
+        "id": 35,
+        "ename": "Chad",
+        "cname": "乍得",
+        "abbr": "TD",
+        "copyid": 77
+    },
+    "36": {
+        "id": 36,
+        "ename": "Chile",
+        "cname": "智利",
+        "abbr": "CL",
+        "copyid": 78
+    },
+    "37": {
+        "id": 37,
+        "ename": "China",
+        "cname": "中国",
+        "abbr": "CN",
+        "copyid": 79
+    },
+    "38": {
+        "id": 38,
+        "ename": "Colombia",
+        "cname": "哥伦比亚",
+        "abbr": "CO",
+        "copyid": 81
+    },
+    "39": {
+        "id": 39,
+        "ename": "Congo",
+        "cname": "刚果",
+        "abbr": "CG",
+        "copyid": 83
+    },
+    "40": {
+        "id": 40,
+        "ename": "Cook Is.",
+        "cname": "库克群岛",
+        "abbr": "CK",
+        "copyid": 84
+    },
+    "41": {
+        "id": 41,
+        "ename": "Costa Rica",
+        "cname": "哥斯达黎加",
+        "abbr": "CR",
+        "copyid": 85
+    },
+    "42": {
+        "id": 42,
+        "ename": "Cuba",
+        "cname": "古巴",
+        "abbr": "CU",
+        "copyid": 87
+    },
+    "43": {
+        "id": 43,
+        "ename": "Cyprus",
+        "cname": "塞浦路斯",
+        "abbr": "CY",
+        "copyid": 88
+    },
+    "44": {
+        "id": 44,
+        "ename": "Czech Republic",
+        "cname": "捷克",
+        "abbr": "CZ",
+        "copyid": 89
+    },
+    "45": {
+        "id": 45,
+        "ename": "Denmark",
+        "cname": "丹麦",
+        "abbr": "DK",
+        "copyid": 91
+    },
+    "46": {
+        "id": 46,
+        "ename": "Djibouti",
+        "cname": "吉布提",
+        "abbr": "DJ",
+        "copyid": 92
+    },
+    "47": {
+        "id": 47,
+        "ename": "Dominica Rep.",
+        "cname": "多米尼加共和国",
+        "abbr": "DO",
+        "copyid": 93
+    },
+    "48": {
+        "id": 48,
+        "ename": "Ecuador",
+        "cname": "厄瓜多尔",
+        "abbr": "EC",
+        "copyid": 96
+    },
+    "49": {
+        "id": 49,
+        "ename": "Egypt",
+        "cname": "埃及",
+        "abbr": "EG",
+        "copyid": 97
+    },
+    "50": {
+        "id": 50,
+        "ename": "EISalvador",
+        "cname": "萨尔瓦多",
+        "abbr": "SV",
+        "copyid": 98
+    },
+    "51": {
+        "id": 51,
+        "ename": "Estonia",
+        "cname": "爱沙尼亚",
+        "abbr": "EE",
+        "copyid": 100
+    },
+    "52": {
+        "id": 52,
+        "ename": "Ethiopia",
+        "cname": "埃塞俄比亚",
+        "abbr": "ET",
+        "copyid": 101
+    },
+    "53": {
+        "id": 53,
+        "ename": "Fiji",
+        "cname": "斐济",
+        "abbr": "FJ",
+        "copyid": 104
+    },
+    "54": {
+        "id": 54,
+        "ename": "Finland",
+        "cname": "芬兰",
+        "abbr": "FI",
+        "copyid": 105
+    },
+    "55": {
+        "id": 55,
+        "ename": "France",
+        "cname": "法国",
+        "abbr": "FR",
+        "copyid": 106
+    },
+    "56": {
+        "id": 56,
+        "ename": "French Guiana",
+        "cname": "法属圭亚那",
+        "abbr": "GF",
+        "copyid": 107
+    },
+    "57": {
+        "id": 57,
+        "ename": "Gabon",
+        "cname": "加蓬",
+        "abbr": "GA",
+        "copyid": 109
+    },
+    "58": {
+        "id": 58,
+        "ename": "Gambia",
+        "cname": "冈比亚",
+        "abbr": "GM",
+        "copyid": 110
+    },
+    "59": {
+        "id": 59,
+        "ename": "Georgia",
+        "cname": "格鲁吉亚",
+        "abbr": "GE",
+        "copyid": 111
+    },
+    "60": {
+        "id": 60,
+        "ename": "Germany",
+        "cname": "德国",
+        "abbr": "DE",
+        "copyid": 112
+    },
+    "61": {
+        "id": 61,
+        "ename": "Ghana",
+        "cname": "加纳",
+        "abbr": "GH",
+        "copyid": 113
+    },
+    "62": {
+        "id": 62,
+        "ename": "Gibraltar",
+        "cname": "直布罗陀",
+        "abbr": "GI",
+        "copyid": 114
+    },
+    "63": {
+        "id": 63,
+        "ename": "Greece",
+        "cname": "希腊",
+        "abbr": "GR",
+        "copyid": 115
+    },
+    "64": {
+        "id": 64,
+        "ename": "Grenada",
+        "cname": "格林纳达",
+        "abbr": "GD",
+        "copyid": 117
+    },
+    "65": {
+        "id": 65,
+        "ename": "Guam",
+        "cname": "关岛",
+        "abbr": "GU",
+        "copyid": 119
+    },
+    "66": {
+        "id": 66,
+        "ename": "Guatemala",
+        "cname": "危地马拉",
+        "abbr": "GT",
+        "copyid": 120
+    },
+    "67": {
+        "id": 67,
+        "ename": "Guinea",
+        "cname": "几内亚",
+        "abbr": "GN",
+        "copyid": 121
+    },
+    "68": {
+        "id": 68,
+        "ename": "Guyana",
+        "cname": "圭亚那",
+        "abbr": "GY",
+        "copyid": 122
+    },
+    "69": {
+        "id": 69,
+        "ename": "Haiti",
+        "cname": "海地",
+        "abbr": "HT",
+        "copyid": 123
+    },
+    "70": {
+        "id": 70,
+        "ename": "Honduras",
+        "cname": "洪都拉斯",
+        "abbr": "HN",
+        "copyid": 124
+    },
+    "71": {
+        "id": 71,
+        "ename": "Hongkong",
+        "cname": "香港",
+        "abbr": "HK",
+        "copyid": 0
+    },
+    "72": {
+        "id": 72,
+        "ename": "Hungary",
+        "cname": "匈牙利",
+        "abbr": "HU",
+        "copyid": 126
+    },
+    "73": {
+        "id": 73,
+        "ename": "Iceland",
+        "cname": "冰岛",
+        "abbr": "IS",
+        "copyid": 127
+    },
+    "74": {
+        "id": 74,
+        "ename": "India",
+        "cname": "印度",
+        "abbr": "IN",
+        "copyid": 128
+    },
+    "75": {
+        "id": 75,
+        "ename": "Indonesia",
+        "cname": "印度尼西亚",
+        "abbr": "ID",
+        "copyid": 129
+    },
+    "76": {
+        "id": 76,
+        "ename": "Iran",
+        "cname": "伊朗",
+        "abbr": "IR",
+        "copyid": 130
+    },
+    "77": {
+        "id": 77,
+        "ename": "Iraq",
+        "cname": "伊拉克",
+        "abbr": "IQ",
+        "copyid": 131
+    },
+    "78": {
+        "id": 78,
+        "ename": "Ireland",
+        "cname": "爱尔兰",
+        "abbr": "IE",
+        "copyid": 132
+    },
+    "79": {
+        "id": 79,
+        "ename": "Israel",
+        "cname": "以色列",
+        "abbr": "IL",
+        "copyid": 133
+    },
+    "80": {
+        "id": 80,
+        "ename": "Italy",
+        "cname": "意大利",
+        "abbr": "IT",
+        "copyid": 134
+    },
+    "81": {
+        "id": 81,
+        "ename": "IvoryCoast",
+        "cname": "科特迪瓦",
+        "abbr": "",
+        "copyid": 0
+    },
+    "82": {
+        "id": 82,
+        "ename": "Jamaica",
+        "cname": "牙买加",
+        "abbr": "JM",
+        "copyid": 135
+    },
+    "83": {
+        "id": 83,
+        "ename": "Japan",
+        "cname": "日本",
+        "abbr": "JP",
+        "copyid": 136
+    },
+    "84": {
+        "id": 84,
+        "ename": "Jordan",
+        "cname": "约旦",
+        "abbr": "JO",
+        "copyid": 137
+    },
+    "85": {
+        "id": 85,
+        "ename": "Kampuchea (Cambodia )",
+        "cname": "柬埔寨",
+        "abbr": "KH",
+        "copyid": 71
+    },
+    "86": {
+        "id": 86,
+        "ename": "Kazakstan",
+        "cname": "哈萨克斯坦",
+        "abbr": "KZ",
+        "copyid": 138
+    },
+    "87": {
+        "id": 87,
+        "ename": "Kenya",
+        "cname": "肯尼亚",
+        "abbr": "KE",
+        "copyid": 139
+    },
+    "88": {
+        "id": 88,
+        "ename": "Korea",
+        "cname": "韩国",
+        "abbr": "KR",
+        "copyid": 141
+    },
+    "89": {
+        "id": 89,
+        "ename": "Kuwait",
+        "cname": "科威特",
+        "abbr": "KW",
+        "copyid": 143
+    },
+    "90": {
+        "id": 90,
+        "ename": "Kyrgyzstan",
+        "cname": "吉尔吉斯坦",
+        "abbr": "KG",
+        "copyid": 144
+    },
+    "91": {
+        "id": 91,
+        "ename": "Laos",
+        "cname": "老挝",
+        "abbr": "LA",
+        "copyid": 145
+    },
+    "92": {
+        "id": 92,
+        "ename": "Latvia",
+        "cname": "拉脱维亚",
+        "abbr": "LV",
+        "copyid": 146
+    },
+    "93": {
+        "id": 93,
+        "ename": "Lebanon",
+        "cname": "黎巴嫩",
+        "abbr": "LB",
+        "copyid": 147
+    },
+    "94": {
+        "id": 94,
+        "ename": "Lesotho",
+        "cname": "莱索托",
+        "abbr": "LS",
+        "copyid": 151
+    },
+    "95": {
+        "id": 95,
+        "ename": "Liberia",
+        "cname": "利比里亚",
+        "abbr": "LR",
+        "copyid": 149
+    },
+    "96": {
+        "id": 96,
+        "ename": "Libya",
+        "cname": "利比亚",
+        "abbr": "LY",
+        "copyid": 150
+    },
+    "97": {
+        "id": 97,
+        "ename": "Liechtenstein",
+        "cname": "列支敦士登",
+        "abbr": "LI",
+        "copyid": 148
+    },
+    "98": {
+        "id": 98,
+        "ename": "Lithuania",
+        "cname": "立陶宛",
+        "abbr": "LT",
+        "copyid": 152
+    },
+    "99": {
+        "id": 99,
+        "ename": "Luxembourg",
+        "cname": "卢森堡",
+        "abbr": "LU",
+        "copyid": 153
+    },
+    "100": {
+        "id": 100,
+        "ename": "Macao",
+        "cname": "澳门",
+        "abbr": "MO",
+        "copyid": 0
+    },
+    "101": {
+        "id": 101,
+        "ename": "Madagascar",
+        "cname": "马达加斯加",
+        "abbr": "MG",
+        "copyid": 155
+    },
+    "102": {
+        "id": 102,
+        "ename": "Malawi",
+        "cname": "马拉维",
+        "abbr": "MW",
+        "copyid": 156
+    },
+    "103": {
+        "id": 103,
+        "ename": "Malaysia",
+        "cname": "马来西亚",
+        "abbr": "MY",
+        "copyid": 157
+    },
+    "104": {
+        "id": 104,
+        "ename": "Maldives",
+        "cname": "马尔代夫",
+        "abbr": "MV",
+        "copyid": 158
+    },
+    "105": {
+        "id": 105,
+        "ename": "Mali",
+        "cname": "马里",
+        "abbr": "ML",
+        "copyid": 159
+    },
+    "106": {
+        "id": 106,
+        "ename": "Malta",
+        "cname": "马耳他",
+        "abbr": "MT",
+        "copyid": 160
+    },
+    "107": {
+        "id": 107,
+        "ename": "Mariana Is",
+        "cname": "马里亚那群岛",
+        "abbr": "",
+        "copyid": 0
+    },
+    "108": {
+        "id": 108,
+        "ename": "Martinique",
+        "cname": "马提尼克",
+        "abbr": "",
+        "copyid": 162
+    },
+    "109": {
+        "id": 109,
+        "ename": "Mauritius",
+        "cname": "毛里求斯",
+        "abbr": "MU",
+        "copyid": 164
+    },
+    "110": {
+        "id": 110,
+        "ename": "Mexico",
+        "cname": "墨西哥",
+        "abbr": "MX",
+        "copyid": 165
+    },
+    "111": {
+        "id": 111,
+        "ename": "Moldova, Republic of",
+        "cname": "摩尔多瓦",
+        "abbr": "MD",
+        "copyid": 168
+    },
+    "112": {
+        "id": 112,
+        "ename": "Monaco",
+        "cname": "摩纳哥",
+        "abbr": "MC",
+        "copyid": 167
+    },
+    "113": {
+        "id": 113,
+        "ename": "Mongolia",
+        "cname": "蒙古",
+        "abbr": "MN",
+        "copyid": 170
+    },
+    "114": {
+        "id": 114,
+        "ename": "Montserrat Is",
+        "cname": "蒙特塞拉特岛",
+        "abbr": "MS",
+        "copyid": 0
+    },
+    "115": {
+        "id": 115,
+        "ename": "Morocco",
+        "cname": "摩洛哥",
+        "abbr": "MA",
+        "copyid": 169
+    },
+    "116": {
+        "id": 116,
+        "ename": "Mozambique",
+        "cname": "莫桑比克",
+        "abbr": "MZ",
+        "copyid": 172
+    },
+    "117": {
+        "id": 117,
+        "ename": "Namibia",
+        "cname": "纳米比亚",
+        "abbr": "NA",
+        "copyid": 174
+    },
+    "118": {
+        "id": 118,
+        "ename": "Nauru",
+        "cname": "瑙鲁",
+        "abbr": "NR",
+        "copyid": 175
+    },
+    "119": {
+        "id": 119,
+        "ename": "Nepal",
+        "cname": "尼泊尔",
+        "abbr": "NP",
+        "copyid": 176
+    },
+    "120": {
+        "id": 120,
+        "ename": "Netheriands Antilles",
+        "cname": "荷属安的列斯",
+        "abbr": "",
+        "copyid": 0
+    },
+    "121": {
+        "id": 121,
+        "ename": "Netherlands",
+        "cname": "荷兰",
+        "abbr": "NL",
+        "copyid": 177
+    },
+    "122": {
+        "id": 122,
+        "ename": "NewZealand",
+        "cname": "新西兰",
+        "abbr": "NZ",
+        "copyid": 181
+    },
+    "123": {
+        "id": 123,
+        "ename": "Nicaragua",
+        "cname": "尼加拉瓜",
+        "abbr": "NI",
+        "copyid": 182
+    },
+    "124": {
+        "id": 124,
+        "ename": "Niger",
+        "cname": "尼日尔",
+        "abbr": "NE",
+        "copyid": 183
+    },
+    "125": {
+        "id": 125,
+        "ename": "Nigeria",
+        "cname": "尼日利亚",
+        "abbr": "NG",
+        "copyid": 184
+    },
+    "126": {
+        "id": 126,
+        "ename": "North Korea",
+        "cname": "朝鲜",
+        "abbr": "KP",
+        "copyid": 142
+    },
+    "127": {
+        "id": 127,
+        "ename": "Norway",
+        "cname": "挪威",
+        "abbr": "NO",
+        "copyid": 188
+    },
+    "128": {
+        "id": 128,
+        "ename": "Oman",
+        "cname": "阿曼",
+        "abbr": "OM",
+        "copyid": 189
+    },
+    "129": {
+        "id": 129,
+        "ename": "Pakistan",
+        "cname": "巴基斯坦",
+        "abbr": "PK",
+        "copyid": 190
+    },
+    "130": {
+        "id": 130,
+        "ename": "Panama",
+        "cname": "巴拿马",
+        "abbr": "PA",
+        "copyid": 192
+    },
+    "131": {
+        "id": 131,
+        "ename": "Papua New Cuinea",
+        "cname": "巴布亚新几内亚",
+        "abbr": "PG",
+        "copyid": 193
+    },
+    "132": {
+        "id": 132,
+        "ename": "Paraguay",
+        "cname": "巴拉圭",
+        "abbr": "PY",
+        "copyid": 194
+    },
+    "133": {
+        "id": 133,
+        "ename": "Peru",
+        "cname": "秘鲁",
+        "abbr": "PE",
+        "copyid": 195
+    },
+    "134": {
+        "id": 134,
+        "ename": "Philippines",
+        "cname": "菲律宾",
+        "abbr": "PH",
+        "copyid": 196
+    },
+    "135": {
+        "id": 135,
+        "ename": "Poland",
+        "cname": "波兰",
+        "abbr": "PL",
+        "copyid": 198
+    },
+    "136": {
+        "id": 136,
+        "ename": "French Polynesia",
+        "cname": "法属玻利尼西亚",
+        "abbr": "PF",
+        "copyid": 108
+    },
+    "137": {
+        "id": 137,
+        "ename": "Portugal",
+        "cname": "葡萄牙",
+        "abbr": "PT",
+        "copyid": 199
+    },
+    "138": {
+        "id": 138,
+        "ename": "PuertoRico",
+        "cname": "波多黎各",
+        "abbr": "PR",
+        "copyid": 200
+    },
+    "139": {
+        "id": 139,
+        "ename": "Qatar",
+        "cname": "卡塔尔",
+        "abbr": "QA",
+        "copyid": 201
+    },
+    "140": {
+        "id": 140,
+        "ename": "Reunion",
+        "cname": "留尼旺",
+        "abbr": "",
+        "copyid": 202
+    },
+    "141": {
+        "id": 141,
+        "ename": "Romania",
+        "cname": "罗马尼亚",
+        "abbr": "RO",
+        "copyid": 203
+    },
+    "142": {
+        "id": 142,
+        "ename": "Russia",
+        "cname": "俄罗斯",
+        "abbr": "RU",
+        "copyid": 204
+    },
+    "143": {
+        "id": 143,
+        "ename": "Saint Lueia",
+        "cname": "圣卢西亚",
+        "abbr": "LC",
+        "copyid": 206
+    },
+    "144": {
+        "id": 144,
+        "ename": "Saint Vincent",
+        "cname": "圣文森特岛",
+        "abbr": "VC",
+        "copyid": 0
+    },
+    "145": {
+        "id": 145,
+        "ename": "Samoa Eastern",
+        "cname": "东萨摩亚(美)",
+        "abbr": "",
+        "copyid": 0
+    },
+    "146": {
+        "id": 146,
+        "ename": "Samoa Western",
+        "cname": "西萨摩亚",
+        "abbr": "",
+        "copyid": 0
+    },
+    "147": {
+        "id": 147,
+        "ename": "San Marino",
+        "cname": "圣马力诺",
+        "abbr": "SM",
+        "copyid": 207
+    },
+    "148": {
+        "id": 148,
+        "ename": "Sao Tome and Principe",
+        "cname": "圣多美和普林西比",
+        "abbr": "ST",
+        "copyid": 0
+    },
+    "149": {
+        "id": 149,
+        "ename": "Saudi Arabia",
+        "cname": "沙特阿拉伯",
+        "abbr": "SA",
+        "copyid": 208
+    },
+    "150": {
+        "id": 150,
+        "ename": "Senegal",
+        "cname": "塞内加尔",
+        "abbr": "SN",
+        "copyid": 209
+    },
+    "151": {
+        "id": 151,
+        "ename": "Seychelles",
+        "cname": "塞舌尔",
+        "abbr": "SC",
+        "copyid": 210
+    },
+    "152": {
+        "id": 152,
+        "ename": "Sierra Leone",
+        "cname": "塞拉利昂",
+        "abbr": "SL",
+        "copyid": 211
+    },
+    "153": {
+        "id": 153,
+        "ename": "Singapore",
+        "cname": "新加坡",
+        "abbr": "SG",
+        "copyid": 212
+    },
+    "154": {
+        "id": 154,
+        "ename": "Slovakia",
+        "cname": "斯洛伐克",
+        "abbr": "SK",
+        "copyid": 214
+    },
+    "155": {
+        "id": 155,
+        "ename": "Slovenia",
+        "cname": "斯洛文尼亚",
+        "abbr": "SI",
+        "copyid": 213
+    },
+    "156": {
+        "id": 156,
+        "ename": "Solomon Is",
+        "cname": "所罗门群岛",
+        "abbr": "SB",
+        "copyid": 215
+    },
+    "157": {
+        "id": 157,
+        "ename": "Somali",
+        "cname": "索马里",
+        "abbr": "SO",
+        "copyid": 216
+    },
+    "158": {
+        "id": 158,
+        "ename": "South Africa",
+        "cname": "南非",
+        "abbr": "ZA",
+        "copyid": 217
+    },
+    "159": {
+        "id": 159,
+        "ename": "Spain",
+        "cname": "西班牙",
+        "abbr": "ES",
+        "copyid": 218
+    },
+    "160": {
+        "id": 160,
+        "ename": "Sri Lanka",
+        "cname": "斯里兰卡",
+        "abbr": "LK",
+        "copyid": 219
+    },
+    "161": {
+        "id": 161,
+        "ename": "St.Lucia",
+        "cname": "圣卢西亚",
+        "abbr": "LC",
+        "copyid": 206
+    },
+    "162": {
+        "id": 162,
+        "ename": "St.Vincent",
+        "cname": "圣文森特",
+        "abbr": "VC",
+        "copyid": 0
+    },
+    "163": {
+        "id": 163,
+        "ename": "Sudan",
+        "cname": "苏丹",
+        "abbr": "SD",
+        "copyid": 220
+    },
+    "164": {
+        "id": 164,
+        "ename": "Suriname",
+        "cname": "苏里南",
+        "abbr": "SR",
+        "copyid": 221
+    },
+    "165": {
+        "id": 165,
+        "ename": "Swaziland",
+        "cname": "斯威士兰",
+        "abbr": "SZ",
+        "copyid": 222
+    },
+    "166": {
+        "id": 166,
+        "ename": "Sweden",
+        "cname": "瑞典",
+        "abbr": "SE",
+        "copyid": 223
+    },
+    "167": {
+        "id": 167,
+        "ename": "Switzerland",
+        "cname": "瑞士",
+        "abbr": "CH",
+        "copyid": 224
+    },
+    "168": {
+        "id": 168,
+        "ename": "Syria",
+        "cname": "叙利亚",
+        "abbr": "SY",
+        "copyid": 225
+    },
+    "169": {
+        "id": 169,
+        "ename": "Taiwan",
+        "cname": "台湾省",
+        "abbr": "TW",
+        "copyid": 226
+    },
+    "170": {
+        "id": 170,
+        "ename": "Tajikstan",
+        "cname": "塔吉克斯坦",
+        "abbr": "TJ",
+        "copyid": 227
+    },
+    "171": {
+        "id": 171,
+        "ename": "Tanzania",
+        "cname": "坦桑尼亚",
+        "abbr": "TZ",
+        "copyid": 228
+    },
+    "172": {
+        "id": 172,
+        "ename": "Thailand",
+        "cname": "泰国",
+        "abbr": "TH",
+        "copyid": 229
+    },
+    "173": {
+        "id": 173,
+        "ename": "Togo",
+        "cname": "多哥",
+        "abbr": "TG",
+        "copyid": 230
+    },
+    "174": {
+        "id": 174,
+        "ename": "Tonga",
+        "cname": "汤加",
+        "abbr": "TO",
+        "copyid": 232
+    },
+    "175": {
+        "id": 175,
+        "ename": "Trinidad and Tobago",
+        "cname": "特立尼达和多巴哥",
+        "abbr": "TT",
+        "copyid": 233
+    },
+    "176": {
+        "id": 176,
+        "ename": "Tunisia",
+        "cname": "突尼斯",
+        "abbr": "TN",
+        "copyid": 234
+    },
+    "177": {
+        "id": 177,
+        "ename": "Turkey",
+        "cname": "土耳其",
+        "abbr": "TR",
+        "copyid": 235
+    },
+    "178": {
+        "id": 178,
+        "ename": "Turkmenistan",
+        "cname": "土库曼斯坦",
+        "abbr": "TM",
+        "copyid": 236
+    },
+    "179": {
+        "id": 179,
+        "ename": "Uganda",
+        "cname": "乌干达",
+        "abbr": "UG",
+        "copyid": 238
+    },
+    "180": {
+        "id": 180,
+        "ename": "Ukraine",
+        "cname": "乌克兰",
+        "abbr": "UA",
+        "copyid": 239
+    },
+    "181": {
+        "id": 181,
+        "ename": "United Arab Emirates",
+        "cname": "阿拉伯联合酋长国",
+        "abbr": "AE",
+        "copyid": 240
+    },
+    "182": {
+        "id": 182,
+        "ename": "United Kiongdom",
+        "cname": "英国",
+        "abbr": "GB",
+        "copyid": 241
+    },
+    "183": {
+        "id": 183,
+        "ename": "United States of America",
+        "cname": "美国",
+        "abbr": "US",
+        "copyid": 242
+    },
+    "184": {
+        "id": 184,
+        "ename": "Uruguay",
+        "cname": "乌拉圭",
+        "abbr": "UY",
+        "copyid": 243
+    },
+    "185": {
+        "id": 185,
+        "ename": "Uzbekistan",
+        "cname": "乌兹别克斯坦",
+        "abbr": "UZ",
+        "copyid": 245
+    },
+    "186": {
+        "id": 186,
+        "ename": "Venezuela",
+        "cname": "委内瑞拉",
+        "abbr": "VE",
+        "copyid": 248
+    },
+    "187": {
+        "id": 187,
+        "ename": "Vietnam",
+        "cname": "越南",
+        "abbr": "VN",
+        "copyid": 249
+    },
+    "188": {
+        "id": 188,
+        "ename": "Yemen",
+        "cname": "也门",
+        "abbr": "YE",
+        "copyid": 254
+    },
+    "189": {
+        "id": 189,
+        "ename": "Yugoslavia",
+        "cname": "南斯拉夫",
+        "abbr": "YU",
+        "copyid": 255
+    },
+    "190": {
+        "id": 190,
+        "ename": "South Africa",
+        "cname": "南非",
+        "abbr": "ZA",
+        "copyid": 217
+    },
+    "191": {
+        "id": 191,
+        "ename": "Zimbabwe",
+        "cname": "津巴布韦",
+        "abbr": "ZW",
+        "copyid": 258
+    },
+    "192": {
+        "id": 192,
+        "ename": "Zaire",
+        "cname": "扎伊尔",
+        "abbr": "ZR",
+        "copyid": 257
+    },
+    "193": {
+        "id": 193,
+        "ename": "Zambia",
+        "cname": "赞比亚",
+        "abbr": "ZM",
+        "copyid": 256
+    }
+}

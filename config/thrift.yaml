@@ -1,0 +1,5 @@
+security:
+    host: 127.0.0.1
+    port: 9044
+    timeout: 3
+    maxtries: 3

@@ -1,0 +1,50 @@
+{
+    "editor.rulers": [
+        80,
+        100
+    ],
+    "files.exclude": {
+        "**/.git": true,
+        "**/*.pyc": true,
+        "**/__pycache__": true
+    },
+    "files.trimTrailingWhitespace": true,
+    "files.encoding": "utf8",
+    "files.eol": "\n",
+    "files.insertFinalNewline": true,
+    "files.trimFinalNewlines": false,
+    "python.autoComplete.addBrackets": true,
+    "python.pythonPath": "${workspaceFolder}/venv/bin/python",
+    "python.linting.enabled": true,
+    "python.linting.lintOnSave": true,
+    "python.linting.pep8Enabled": true,
+    "python.linting.pep8Path": "${workspaceFolder}/venv/bin/pep8",
+    "python.linting.pep8Args":  [
+        "--max-line-length=100",
+        "--ignore=C0111,C0103,C0303,C0411,C0413,E402,E0632,W291,w0105,W0401,W0603,W0612,W0613,W0614,W0622,W1113,I1101,R0123,R0201,R0902,R0903,R0913"
+    ],
+    "python.linting.pylintArgs": [
+        "--max-line-length=100",
+        "--disable=C0111,C0103,C0303,C0411,C0413,E402,E0632,W291,w0105,W0401,W0603,W0612,W0613,W0614,W0622,W1113,I1101,R0123,R0201,R0902,R0903,R0913"
+    ],
+    "python.formatting.provider": "autopep8",
+    "python.formatting.autopep8Path": "${workspaceFolder}/venv/bin/autopep8",
+    "python.formatting.autopep8Args": [
+        "--max-line-length=100",
+        "--ignore=C0111,C0103,C0303,C0411,C0413,E402,E0632,W291,w0105,W0401,W0603,W0612,W0613,W0614,W0622,W1113,I1101,R0123,R0201,R0902,R0903,R0913"
+    ],
+    "[python]": {
+        "editor.formatOnPaste": true,
+        "editor.formatOnSave": true,
+    },
+    "python.unitTest.unittestArgs": [
+        "-v",
+        "-s",
+        "./app",
+        "-p",
+        "unittests.py"
+    ],
+    "python.unitTest.unittestEnabled": true,
+    "python.unitTest.pyTestEnabled": false,
+    "python.unitTest.nosetestsEnabled": false
+}

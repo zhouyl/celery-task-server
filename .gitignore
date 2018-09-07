@@ -1,0 +1,9 @@
+__pycache__
+*.pyc
+*.log
+*.pid
+/logs/*
+/venv/*
+/app/demo.py
+.python-version
+.DS_Store

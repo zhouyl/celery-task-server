@@ -1,0 +1,79 @@
+# LOG LEVEL
+# ------------------------
+# CRITICAL- 50
+# ERROR   - 40
+# WARNING - 30
+# INFO    - 20
+# DEBUG   - 10
+# NOTSET  - 0
+# ------------------------
+
+version: 1
+
+disable_existing_loggers: true
+
+formatters:
+  simple:
+    format: "[%(asctime)s][%(levelname)s] - %(message)s"
+
+  default:
+    format: "[%(asctime)s][%(levelname)s] - %(message)s (%(pathname)s:%(lineno)d)"
+
+  venbose:
+    format: "[%(name)s][%(asctime)s][%(levelname)s] - %(message)s (%(pathname)s:%(lineno)d)"
+
+handlers:
+  consoleHandler:
+    class: logging.StreamHandler
+    level: DEBUG
+    formatter: simple
+
+  fileHandler:
+    class: logging.handlers.RotatingFileHandler
+    level: DEBUG
+    formatter: venbose
+    filename: logs/app.log
+    maxBytes: 100000000 # 100Mb
+    backupCount: 50
+    encoding: utf8
+
+  namedFileHandler:
+    class: utils.logger.handlers.NamedFileHandler
+    level: DEBUG
+    formatter: default
+    filename: 'logs/{year}{month}{date}/{name}.log'
+    encoding: utf8
+
+  mailHandler:
+    class: utils.logger.handlers.SMTPHandler
+    level: CRITICAL # ERROR
+    formatter: venbose
+    sender: [my@mail-host.com, "celery-task-server"]
+    mailhost: [smtp.exmail.qq.com, 25]
+    receivers: recv@mail-host.com
+    subject: "[错误警报] 来自 celery-task-server 数据处理服务"
+    credentials: [my@mail-host.com, mail-passwd]
+
+root:
+  level: DEBUG
+  handlers: [consoleHandler, fileHandler, mailHandler]
+
+loggers:
+  commands: &commandLogger
+    level: DEBUG
+    handlers: [consoleHandler, namedFileHandler, mailHandler]
+    propagate: no
+
+  # 以下用于提取 lib/package 中默认的 logger
+  # 分割不同的文件存储，以便调试时查询日志，并及时邮件报警错误信息
+  bynamed: &namedLogger
+    level: DEBUG
+    handlers: [namedFileHandler, mailHandler]
+    propagate: no
+  thrift: *namedLogger
+  thrifts: *namedLogger
+  orator: *namedLogger
+  requests: *namedLogger
+  urllib3: *namedLogger
+  utils: *namedLogger
+

@@ -1,0 +1,6 @@
+gateway: http://10.1.22.162/api
+appId: CRM
+appKey: XXXXX
+timeout: 3
+headers:
+  Host: api.my-host.com

@@ -1,0 +1,17 @@
+# 默认配置名称
+default: foo
+
+# 证券数据中心
+foo:
+  host: 127.0.0.1
+  database: db_foo
+  user: root
+  password: root
+  timezone: +08:00
+
+bar:
+  host: 127.0.0.1
+  database: db_bar
+  user: root
+  password: root
+  timezone: +08:00

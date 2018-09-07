@@ -1,0 +1,7 @@
+gateway: https://api.my-host.com/api
+appId: CRM
+appKey: XXXXX
+timeout: 3
+verify: False
+headers:
+  Host: api.my-host.com
